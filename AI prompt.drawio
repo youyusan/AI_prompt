@@ -127,11 +127,17 @@
         <mxCell id="oRHwsimc5Iw2dlS-Z3f--28" value="直接提问法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="440" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="oRHwsimc5Iw2dlS-Z3f--77" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="oRHwsimc5Iw2dlS-Z3f--29" target="oRHwsimc5Iw2dlS-Z3f--75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oRHwsimc5Iw2dlS-Z3f--78" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="oRHwsimc5Iw2dlS-Z3f--29" target="oRHwsimc5Iw2dlS-Z3f--76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oRHwsimc5Iw2dlS-Z3f--29" value="原子任务法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="720" width="160" height="40" as="geometry" />
+          <mxGeometry x="200" y="760" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oRHwsimc5Iw2dlS-Z3f--30" value="任务拆解法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="800" width="160" height="40" as="geometry" />
+          <mxGeometry x="200" y="840" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oRHwsimc5Iw2dlS-Z3f--47" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="oRHwsimc5Iw2dlS-Z3f--37" target="oRHwsimc5Iw2dlS-Z3f--43">
           <mxGeometry relative="1" as="geometry" />
@@ -166,7 +172,7 @@
         <mxCell id="oRHwsimc5Iw2dlS-Z3f--50" value="无中生有指令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="120" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oRHwsimc5Iw2dlS-Z3f--53" value="&lt;div&gt;【遇事不决任务】&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oRHwsimc5Iw2dlS-Z3f--53" value="&lt;div&gt;遇事不决的任务&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="440" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oRHwsimc5Iw2dlS-Z3f--59" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="oRHwsimc5Iw2dlS-Z3f--55" target="oRHwsimc5Iw2dlS-Z3f--58">
@@ -216,6 +222,24 @@
         </mxCell>
         <mxCell id="oRHwsimc5Iw2dlS-Z3f--71" value="新建对话框、测试效果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="680" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oRHwsimc5Iw2dlS-Z3f--80" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="oRHwsimc5Iw2dlS-Z3f--75" target="oRHwsimc5Iw2dlS-Z3f--79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oRHwsimc5Iw2dlS-Z3f--75" value="适合任务类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="760" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oRHwsimc5Iw2dlS-Z3f--76" value="提示词炼制&lt;br&gt;步骤" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="840" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oRHwsimc5Iw2dlS-Z3f--82" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="oRHwsimc5Iw2dlS-Z3f--79" target="oRHwsimc5Iw2dlS-Z3f--81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oRHwsimc5Iw2dlS-Z3f--79" value="最小颗粒" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="760" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oRHwsimc5Iw2dlS-Z3f--81" value="不能再拆分的任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="760" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
