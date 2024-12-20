@@ -238,6 +238,15 @@
         <mxCell id="1sdceHIgSRcmXwj8wAUc-30" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="oRHwsimc5Iw2dlS-Z3f--76" target="1sdceHIgSRcmXwj8wAUc-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-51" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="oRHwsimc5Iw2dlS-Z3f--76" target="1sdceHIgSRcmXwj8wAUc-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-54" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="oRHwsimc5Iw2dlS-Z3f--76" target="1sdceHIgSRcmXwj8wAUc-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-55" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="oRHwsimc5Iw2dlS-Z3f--76" target="1sdceHIgSRcmXwj8wAUc-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oRHwsimc5Iw2dlS-Z3f--76" value="提示词炼制&lt;br&gt;步骤" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="840" width="80" height="40" as="geometry" />
         </mxCell>
@@ -384,7 +393,7 @@
           <mxGeometry x="760" y="1160" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1sdceHIgSRcmXwj8wAUc-36" value="提示词中加入针对性要求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="1320" width="160" height="40" as="geometry" />
+          <mxGeometry x="760" y="1240" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1sdceHIgSRcmXwj8wAUc-38" value="一句一句测，严格控制变量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="1000" width="160" height="40" as="geometry" />
@@ -399,7 +408,28 @@
           <mxGeometry x="1000" y="1240" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1sdceHIgSRcmXwj8wAUc-48" value="提示词中投喂素材" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="1400" width="160" height="40" as="geometry" />
+          <mxGeometry x="760" y="1320" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-50" value="生成初稿" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-57" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="1sdceHIgSRcmXwj8wAUc-52" target="1sdceHIgSRcmXwj8wAUc-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-52" value="人工处理&lt;br&gt;成定稿" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-59" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="1sdceHIgSRcmXwj8wAUc-53" target="1sdceHIgSRcmXwj8wAUc-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-53" value="抽象成模板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-56" value="去AI词汇、检查金句等引用、检查事实性内容、整理格式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1480" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-58" value="去提示词提取变量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1560" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
