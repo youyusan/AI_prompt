@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="VVKxm9oJFXwjmaiK9dIZ">
-    <mxGraphModel dx="1886" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1663" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -232,6 +232,12 @@
         <mxCell id="oRHwsimc5Iw2dlS-Z3f--84" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="oRHwsimc5Iw2dlS-Z3f--76" target="oRHwsimc5Iw2dlS-Z3f--83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-25" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="oRHwsimc5Iw2dlS-Z3f--76" target="1sdceHIgSRcmXwj8wAUc-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-30" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="oRHwsimc5Iw2dlS-Z3f--76" target="1sdceHIgSRcmXwj8wAUc-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oRHwsimc5Iw2dlS-Z3f--76" value="提示词炼制&lt;br&gt;步骤" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="840" width="80" height="40" as="geometry" />
         </mxCell>
@@ -306,10 +312,21 @@
         <mxCell id="1sdceHIgSRcmXwj8wAUc-16" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="1sdceHIgSRcmXwj8wAUc-10" target="oRHwsimc5Iw2dlS-Z3f--85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-28" style="shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;edgeStyle=orthogonalEdgeStyle;curved=1;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1sdceHIgSRcmXwj8wAUc-9" target="1sdceHIgSRcmXwj8wAUc-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="980" y="780" />
+              <mxPoint x="980" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1sdceHIgSRcmXwj8wAUc-10" value="&lt;div&gt;沉淀素材文档&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="840" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1sdceHIgSRcmXwj8wAUc-17" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="1sdceHIgSRcmXwj8wAUc-11" target="oRHwsimc5Iw2dlS-Z3f--85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-42" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;dashed=1;curved=1;" edge="1" parent="1" source="1sdceHIgSRcmXwj8wAUc-11" target="1sdceHIgSRcmXwj8wAUc-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1sdceHIgSRcmXwj8wAUc-11" value="&lt;div&gt;沉淀方法论&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -323,6 +340,66 @@
         </mxCell>
         <mxCell id="1sdceHIgSRcmXwj8wAUc-20" value="搜索格式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1520" y="920" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-27" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="1sdceHIgSRcmXwj8wAUc-24" target="1sdceHIgSRcmXwj8wAUc-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-24" value="写一个试试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="920" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-26" value="结构化/杜绝多轮对话" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="920" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-33" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="1sdceHIgSRcmXwj8wAUc-29" target="1sdceHIgSRcmXwj8wAUc-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-35" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="1sdceHIgSRcmXwj8wAUc-29" target="1sdceHIgSRcmXwj8wAUc-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-37" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="1sdceHIgSRcmXwj8wAUc-29" target="1sdceHIgSRcmXwj8wAUc-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-49" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="1sdceHIgSRcmXwj8wAUc-29" target="1sdceHIgSRcmXwj8wAUc-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-29" value="调教提示词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1000" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-39" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="1sdceHIgSRcmXwj8wAUc-32" target="1sdceHIgSRcmXwj8wAUc-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-41" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="1sdceHIgSRcmXwj8wAUc-32" target="1sdceHIgSRcmXwj8wAUc-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-32" value="提示词中加入方法论" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1000" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-44" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="1sdceHIgSRcmXwj8wAUc-34" target="1sdceHIgSRcmXwj8wAUc-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-46" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="1sdceHIgSRcmXwj8wAUc-34" target="1sdceHIgSRcmXwj8wAUc-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-34" value="提示词中加入优质样例" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1160" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-36" value="提示词中加入针对性要求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1320" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-38" value="一句一句测，严格控制变量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1000" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-40" value="放入要求模块/作为单独模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1080" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-43" value="只保留优质有效案例" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1160" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-45" value="投喂坑：需要调整素材比例" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1240" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1sdceHIgSRcmXwj8wAUc-48" value="提示词中投喂素材" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1400" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
