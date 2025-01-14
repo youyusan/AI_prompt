@@ -492,7 +492,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wl-1JeEasxInpLwh269j" name="第 2 页">
-    <mxGraphModel dx="1621" dy="1584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1820" dy="1688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -515,7 +515,7 @@
           <mxGeometry x="-600" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wJk2gO2PNOl6C0rGd1g5-2" value="咸鱼一手流量" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-600" y="280" width="80" height="40" as="geometry" />
+          <mxGeometry x="-600" y="880" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wJk2gO2PNOl6C0rGd1g5-18" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="wJk2gO2PNOl6C0rGd1g5-5" target="wJk2gO2PNOl6C0rGd1g5-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -636,9 +636,6 @@
         <mxCell id="wJk2gO2PNOl6C0rGd1g5-48" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="wJk2gO2PNOl6C0rGd1g5-35" target="wJk2gO2PNOl6C0rGd1g5-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wJk2gO2PNOl6C0rGd1g5-49" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="wJk2gO2PNOl6C0rGd1g5-35" target="wJk2gO2PNOl6C0rGd1g5-46" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="wJk2gO2PNOl6C0rGd1g5-35" value="后期接单心得" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-280" y="600" width="160" height="40" as="geometry" />
         </mxCell>
@@ -647,9 +644,6 @@
         </mxCell>
         <mxCell id="wJk2gO2PNOl6C0rGd1g5-45" value="遵守规则" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-40" y="680" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="wJk2gO2PNOl6C0rGd1g5-46" value="后期接单心得" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-40" y="760" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fWe_0qZFb7DNnTrMYpbt-1" value="简历与作品集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="200" width="160" height="40" as="geometry" />
