@@ -126,6 +126,16 @@
         <mxCell id="USdQ7BjOs3rJQ4mpbsZk-30" value="如何决策" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="-360" y="120" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="USdQ7BjOs3rJQ4mpbsZk-45" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="USdQ7BjOs3rJQ4mpbsZk-31" target="USdQ7BjOs3rJQ4mpbsZk-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-480" y="300" />
+              <mxPoint x="-480" y="30" />
+              <mxPoint x="760" y="30" />
+              <mxPoint x="760" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="USdQ7BjOs3rJQ4mpbsZk-31" value="如何沟通" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="-360" y="280" width="80" height="40" as="geometry" />
         </mxCell>
