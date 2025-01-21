@@ -719,7 +719,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5R1UAmUTh-umfNvjBW48-21" value="中期商品发布" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="1200" width="160" height="40" as="geometry" />
+          <mxGeometry x="-280" y="1480" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5R1UAmUTh-umfNvjBW48-22" value="在试错中成长" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="760" width="160" height="40" as="geometry" />
@@ -733,23 +733,59 @@
         <mxCell id="5R1UAmUTh-umfNvjBW48-25" value="账号注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="960" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="xlXxKJd3FnfcZFiACDRu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="5R1UAmUTh-umfNvjBW48-26" target="xlXxKJd3FnfcZFiACDRu-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xlXxKJd3FnfcZFiACDRu-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="5R1UAmUTh-umfNvjBW48-26" target="xlXxKJd3FnfcZFiACDRu-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xlXxKJd3FnfcZFiACDRu-6" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="5R1UAmUTh-umfNvjBW48-26" target="xlXxKJd3FnfcZFiACDRu-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5R1UAmUTh-umfNvjBW48-26" value="闲鱼养号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="1040" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5R1UAmUTh-umfNvjBW48-27" value="账号设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="1120" width="160" height="40" as="geometry" />
+          <mxGeometry x="-40" y="1320" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5R1UAmUTh-umfNvjBW48-28" value="品类选择" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="1200" width="160" height="40" as="geometry" />
+          <mxGeometry x="-40" y="1480" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5R1UAmUTh-umfNvjBW48-29" value="发布商品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="1280" width="160" height="40" as="geometry" />
+          <mxGeometry x="-40" y="1560" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5R1UAmUTh-umfNvjBW48-30" value="后期运营推广" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="1360" width="160" height="40" as="geometry" />
+          <mxGeometry x="-280" y="1640" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5R1UAmUTh-umfNvjBW48-31" value="&amp;nbsp;芝麻信任认证/不绑淘宝/老账号权重更高" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="960" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xlXxKJd3FnfcZFiACDRu-8" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="xlXxKJd3FnfcZFiACDRu-1" target="xlXxKJd3FnfcZFiACDRu-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xlXxKJd3FnfcZFiACDRu-1" value="浏览商品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1040" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xlXxKJd3FnfcZFiACDRu-10" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="xlXxKJd3FnfcZFiACDRu-2" target="xlXxKJd3FnfcZFiACDRu-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xlXxKJd3FnfcZFiACDRu-2" value="签到/小游戏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1120" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xlXxKJd3FnfcZFiACDRu-12" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="xlXxKJd3FnfcZFiACDRu-3" target="xlXxKJd3FnfcZFiACDRu-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xlXxKJd3FnfcZFiACDRu-3" value="养号标准" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xlXxKJd3FnfcZFiACDRu-7" value="关键词搜索/违禁词规避" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1040" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xlXxKJd3FnfcZFiACDRu-9" value="赚咸鱼币" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1120" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xlXxKJd3FnfcZFiACDRu-11" value="半屏是目标商品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1200" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
