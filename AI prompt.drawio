@@ -775,6 +775,9 @@
         <mxCell id="4jjr965LJeLKmVbRwJK_-4" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="5R1UAmUTh-umfNvjBW48-29" target="4jjr965LJeLKmVbRwJK_-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4jjr965LJeLKmVbRwJK_-15" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="5R1UAmUTh-umfNvjBW48-29" target="4jjr965LJeLKmVbRwJK_-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5R1UAmUTh-umfNvjBW48-29" value="发布商品" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-40" y="1840" width="160" height="40" as="geometry" />
         </mxCell>
@@ -869,11 +872,50 @@
         <mxCell id="4jjr965LJeLKmVbRwJK_-1" value="品类赛道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1760" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4jjr965LJeLKmVbRwJK_-3" value="发布商品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4jjr965LJeLKmVbRwJK_-11" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="4jjr965LJeLKmVbRwJK_-3" target="4jjr965LJeLKmVbRwJK_-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4jjr965LJeLKmVbRwJK_-12" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="4jjr965LJeLKmVbRwJK_-3" target="4jjr965LJeLKmVbRwJK_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4jjr965LJeLKmVbRwJK_-13" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="4jjr965LJeLKmVbRwJK_-3" target="4jjr965LJeLKmVbRwJK_-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4jjr965LJeLKmVbRwJK_-3" value="步骤" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1840" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4jjr965LJeLKmVbRwJK_-5" value="先搞定擅长的" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="1760" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4jjr965LJeLKmVbRwJK_-7" value="商品文案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1920" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4jjr965LJeLKmVbRwJK_-9" value="商品发布" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="2000" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4jjr965LJeLKmVbRwJK_-10" value="商品文案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1840" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4jjr965LJeLKmVbRwJK_-17" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="4jjr965LJeLKmVbRwJK_-14" target="4jjr965LJeLKmVbRwJK_-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4jjr965LJeLKmVbRwJK_-19" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="4jjr965LJeLKmVbRwJK_-14" target="4jjr965LJeLKmVbRwJK_-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4jjr965LJeLKmVbRwJK_-21" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="4jjr965LJeLKmVbRwJK_-14" target="4jjr965LJeLKmVbRwJK_-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4jjr965LJeLKmVbRwJK_-14" value="技巧" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="2080" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4jjr965LJeLKmVbRwJK_-16" value="时间：上午或者下午" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="2080" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4jjr965LJeLKmVbRwJK_-18" value="频率：3—5个商品～10 个" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="2160" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4jjr965LJeLKmVbRwJK_-20" value="下架：数据不好下掉换成新的" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="2240" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
